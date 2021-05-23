@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on My New Hugo Site</title>
-    <link>http://example.org/tags/hugo/</link>
-    <description>Recent content in hugo on My New Hugo Site</description>
+    <title>hugo on 1.whateveruwant</title>
+    <link>http://whatuwant.me/tags/hugo/</link>
+    <description>Recent content in hugo on 1.whateveruwant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>©1.whateveruwant {year}</copyright>
+    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://whatuwant.me/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[GitHub.io &#43; Hugo] 블로그 개발기</title>
-      <link>http://example.org/blog/blog-post1/</link>
+      <link>http://whatuwant.me/blog/blog-post1/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/blog/blog-post1/</guid>
+      <guid>http://whatuwant.me/blog/blog-post1/</guid>
       <description>Why I deveop a blog? 입대하던 때로 돌아가 보면 끔찍,, 어떻게 정신 붙잡고 입대했는지 기억도 안나여
 ㅋㅋㅋㅋ알 사람은 아는 흑역사 같던 그때,,😂
 근데 어떻게 보면 죽어라 코딩하던 때에는 입대가 긴 휴가 같기도 했고,,

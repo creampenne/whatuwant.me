@@ -1,72 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on 1.whateveruwant</title>
+    <link>http://whatuwant.me/tags/</link>
+    <description>Recent content in Tags on 1.whateveruwant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>©1.whateveruwant {year}</copyright>
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://whatuwant.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>http://example.org/tags/css/</link>
+      <link>http://whatuwant.me/tags/css/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/css/</guid>
+      <guid>http://whatuwant.me/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>http://example.org/tags/html/</link>
+      <link>http://whatuwant.me/tags/html/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/html/</guid>
+      <guid>http://whatuwant.me/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wordpress</title>
-      <link>http://example.org/tags/wordpress/</link>
+      <link>http://whatuwant.me/tags/wordpress/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/wordpress/</guid>
+      <guid>http://whatuwant.me/tags/wordpress/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github</title>
-      <link>http://example.org/tags/github/</link>
+      <link>http://whatuwant.me/tags/github/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/github/</guid>
+      <guid>http://whatuwant.me/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://example.org/tags/hugo/</link>
+      <link>http://whatuwant.me/tags/hugo/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/hugo/</guid>
+      <guid>http://whatuwant.me/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>js</title>
-      <link>http://example.org/tags/js/</link>
+      <link>http://whatuwant.me/tags/js/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/js/</guid>
+      <guid>http://whatuwant.me/tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scss</title>
-      <link>http://example.org/tags/scss/</link>
+      <link>http://whatuwant.me/tags/scss/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/scss/</guid>
+      <guid>http://whatuwant.me/tags/scss/</guid>
       <description></description>
     </item>
     

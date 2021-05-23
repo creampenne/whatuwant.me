@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>1.whateveruwant</title>
+    <link>http://whatuwant.me/</link>
+    <description>Recent content on 1.whateveruwant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>©1.whateveruwant {year}</copyright>
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://whatuwant.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Wordpress] 블로그 선물</title>
-      <link>http://example.org/blog/blog-post2/</link>
+      <link>http://whatuwant.me/blog/blog-post2/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/blog/blog-post2/</guid>
+      <guid>http://whatuwant.me/blog/blog-post2/</guid>
       <description>Why I deveop a Wordpress site? ㅋㅋㅋㅋ사이트를 하나 더 만들게 될 줄은 몰랐,,
 이번엔 워드프레스로 만든 블로그!~
 대략 3년 전에 어머니가 사용할 기업용 사이트를 제작해드린 적이 있었는데,
@@ -23,10 +24,10 @@ Why I Choose Wordpress? 다른 이유가 없다 간편하게 블로그 글을 �
     
     <item>
       <title>[GitHub.io &#43; Hugo] 블로그 개발기</title>
-      <link>http://example.org/blog/blog-post1/</link>
+      <link>http://whatuwant.me/blog/blog-post1/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/blog/blog-post1/</guid>
+      <guid>http://whatuwant.me/blog/blog-post1/</guid>
       <description>Why I deveop a blog? 입대하던 때로 돌아가 보면 끔찍,, 어떻게 정신 붙잡고 입대했는지 기억도 안나여
 ㅋㅋㅋㅋ알 사람은 아는 흑역사 같던 그때,,😂
 근데 어떻게 보면 죽어라 코딩하던 때에는 입대가 긴 휴가 같기도 했고,,

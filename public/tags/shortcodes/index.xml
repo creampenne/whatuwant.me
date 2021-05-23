@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shortcodes on 1.whateveruwant</title>
+    <link>http://whatuwant.me/tags/shortcodes/</link>
+    <description>Recent content in shortcodes on 1.whateveruwant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©1.whateveruwant {year}</copyright>
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://whatuwant.me/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rich Content</title>
+      <link>http://whatuwant.me/blog/rich-text/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://whatuwant.me/blog/rich-text/</guid>
+      <description>Hugo ships with several Built-in Shortcodesfor rich content, along with a Privacy Configand a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
+YouTube Privacy Enhanced Shortcode   </description>
+    </item>
+    
+  </channel>
+</rss>

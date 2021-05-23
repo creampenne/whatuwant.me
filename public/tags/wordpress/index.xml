@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wordpress on My New Hugo Site</title>
-    <link>http://example.org/tags/wordpress/</link>
-    <description>Recent content in wordpress on My New Hugo Site</description>
+    <title>wordpress on 1.whateveruwant</title>
+    <link>http://whatuwant.me/tags/wordpress/</link>
+    <description>Recent content in wordpress on 1.whateveruwant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>©1.whateveruwant {year}</copyright>
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://whatuwant.me/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Wordpress] 블로그 선물</title>
-      <link>http://example.org/blog/blog-post2/</link>
+      <link>http://whatuwant.me/blog/blog-post2/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/blog/blog-post2/</guid>
+      <guid>http://whatuwant.me/blog/blog-post2/</guid>
       <description>Why I deveop a Wordpress site? ㅋㅋㅋㅋ사이트를 하나 더 만들게 될 줄은 몰랐,,
 이번엔 워드프레스로 만든 블로그!~
 대략 3년 전에 어머니가 사용할 기업용 사이트를 제작해드린 적이 있었는데,

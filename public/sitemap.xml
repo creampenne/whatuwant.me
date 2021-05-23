@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/blog/blog-post2/</loc>
+    <loc>http://whatuwant.me/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>http://whatuwant.me/blog/blog-post2/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/css/</loc>
+    <loc>http://whatuwant.me/blog/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/html/</loc>
+    <loc>http://whatuwant.me/tags/css/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://whatuwant.me/tags/html/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://whatuwant.me/tags/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/wordpress/</loc>
+    <loc>http://whatuwant.me/tags/wordpress/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/blog-post1/</loc>
+    <loc>http://whatuwant.me/blog/blog-post1/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/github/</loc>
+    <loc>http://whatuwant.me/tags/github/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>http://whatuwant.me/tags/hugo/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/js/</loc>
+    <loc>http://whatuwant.me/tags/js/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/scss/</loc>
+    <loc>http://whatuwant.me/tags/scss/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://whatuwant.me/categories/</loc>
   </url>
 </urlset>
