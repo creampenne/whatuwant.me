@@ -1,0 +1,15 @@
+After Format
+======================================================================
+git clone https://github.com/1-whateveruwant/Portfolio-Blog.git
+
+git rm --cached public
+
+git submodule add https://github.com/1-whateveruwant/1-whateveruwant.github.io.git public
+
+git rm --cached themes/hugo-theme-codex
+
+git submodule add https://github.com/jakewies/hugo-theme-codex.git themes/hugo-theme-codex
+
+다크테마 폴더로 추가
+MediaType.Suffix 오류 수정
+======================================================================

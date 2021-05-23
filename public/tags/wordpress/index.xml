@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wordpress on My New Hugo Site</title>
+    <link>http://example.org/tags/wordpress/</link>
+    <description>Recent content in wordpress on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Wordpress] 블로그 선물</title>
+      <link>http://example.org/blog/blog-post2/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/blog-post2/</guid>
+      <description>Why I deveop a Wordpress site? ㅋㅋㅋㅋ사이트를 하나 더 만들게 될 줄은 몰랐,,
+이번엔 워드프레스로 만든 블로그!~
+대략 3년 전에 어머니가 사용할 기업용 사이트를 제작해드린 적이 있었는데,
+이번에는 블로그처럼 운영해보고 싶다고 하셔서 후딱 제작해드렸다!
+Why I Choose Wordpress? 다른 이유가 없다 간편하게 블로그 글을 작성할 수 있기 때문이다.
+[GitHub.io + Hugo]를 통해 개발한 지금 이 사이트 같은 경우, 마크다운 문법으로 글을 작성해야 해서 일반인들이 글을 작성하기에는 진짜 어어어엄청 어려운 정도는 아니고 조금 어렵다.</description>
+    </item>
+    
+  </channel>
+</rss>
