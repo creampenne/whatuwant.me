@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-codex"]
+	path = themes/hugo-theme-codex
+	url = https://github.com/1-whateveruwant/hugo-theme-codex.git
