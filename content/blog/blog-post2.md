@@ -33,4 +33,3 @@ draft: false
 두 번 다시 워드프레스 접할 일 없었으면 좋겠다.  
 그래도 예쁘게 만든 사이트 스크린샷으로 글 마무리,,
 ![캡처](https://user-images.githubusercontent.com/37785797/114398586-ead5fb80-9bda-11eb-9d18-04f732e91557.JPG)
-좋은 글 많이 쓰시면서 예쁘게 꾸며나가셨으면 좋겠어요!!
