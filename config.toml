@@ -7,7 +7,7 @@ theme = "hugo-theme-codex"
 title = "creampenne"
 languageCode = "en-us"
 baseURL = "http://whatuwant.me/"
-copyright = "©creampenne {year}"
+copyright = "©1.whateveruwant {year}"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
