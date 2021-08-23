@@ -4,7 +4,7 @@
 theme = "hugo-theme-codex"
 
 # Override these settings with your own
-title = "creampenne"
+title = "1.whateveruwant"
 languageCode = "en-us"
 baseURL = "http://whatuwant.me/"
 copyright = "©1.whateveruwant {year}"
