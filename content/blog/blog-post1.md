@@ -4,7 +4,7 @@ date: 2021-03-29
 tags: ["github", "hugo", "html", "css", "scss", "js"]
 draft: false
 ---
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6624edbc-de97-42d0-8e28-9aef0fbc2b0e/deploy-status)](https://app.netlify.com/sites/whatuwantme/deploys)
 
 ### Why I deveop a blog?
 입대하던 때로 돌아가 보면 끔찍,,    
