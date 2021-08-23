@@ -4,10 +4,10 @@
 theme = "hugo-theme-codex"
 
 # Override these settings with your own
-title = "1.whateveruwant"
+title = "creampenne"
 languageCode = "en-us"
 baseURL = "http://whatuwant.me/"
-copyright = "©1.whateveruwant {year}"
+copyright = "©creampenne {year}"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
@@ -23,12 +23,12 @@ copyright = "©1.whateveruwant {year}"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   # twitter = "https://twitter.com/<your handle>"
-  github = "https://github.com/1-whateveruwant"
+  github = "https://github.com/creampenne"
   email = "mailto:spoofing@kakao.com "
   # mastodon = "https://mastodon.social/@nickname"
-  facebook = "https://facebook.com/1.whateveruwant/"
+  facebook = "https://facebook.com/creampenne"
   # gitlab = "https://gitlab.com/<your handle>"
-  instagram = "https://instagram.com/1.whateveruwant"
+  instagram = "https://instagram.com/creampenne"
   # linkedin = "<link to your profile>"
   # youtube = "https://www.youtube.com/channel/<your channel>"
 
