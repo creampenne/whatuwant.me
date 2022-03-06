@@ -2,7 +2,7 @@
 title: "[Wordpress] 블로그 선물"
 date: 2021-04-11
 tags: ["wordpress", "html", "css"]
-draft: false
+draft: true
 ---
 
 ### Why I deveop a Wordpress site?
