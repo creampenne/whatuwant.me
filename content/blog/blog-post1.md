@@ -3,6 +3,7 @@ title: "[GitHub.io + Hugo] 블로그 개발기"
 date: 2021-03-29
 tags: ["github", "hugo", "html", "css", "scss", "js"]
 draft: true
+
 ---
 
 ### Why I deveop a blog?
