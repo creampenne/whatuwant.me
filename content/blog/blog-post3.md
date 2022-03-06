@@ -2,7 +2,7 @@
 title: "[GitHub.io + Hugo] 디버깅 정리"
 date: 2021-04-20
 tags: ["github", "hugo", "html", "css", "scss", "js"]
-draft: false
+draft: true
 ---
 
 MediaType.Suffix 오류 수정  
