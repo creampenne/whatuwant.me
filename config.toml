@@ -23,8 +23,8 @@ copyright = "©creampenne {year}"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   # twitter = "https://twitter.com/<your handle>"
-  github = "https://github.com/creampenne"
-  # email = "mailto:spoofing@kakao.com "
+  # github = "https://github.com/creampenne"
+  email = "mailto:spoofing@kakao.com "
   # mastodon = "https://mastodon.social/@nickname"
   # facebook = "https://facebook.com/creampenne"
   # gitlab = "https://gitlab.com/<your handle>"
